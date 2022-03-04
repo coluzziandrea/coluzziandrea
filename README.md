@@ -56,7 +56,7 @@ I care deeply about building modules that suit the requirements and are re-usabl
   <a href="https://hashnode.com/@coluzziandrea" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
  <a href="https://twitter.com/acidevil94" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="mailto:coluzziandrea.dev@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-     <a href="https://api.whatsapp.com/send/?phone=393402494287&text=Ciao%20Andrea%2C%0AVorrei%20parlarti%20di%20un%20progetto%20che%20avevo%20in%20mente%20di%20sviluppare.%20Penso%20che%20tu%20saresti%20la%20persona%20giusta.&app_absent=0"
+     <a href="https://api.whatsapp.com/send/?phone=393402494287&text=Hi%20Andrea%2C%0AI%20wanted%20to%20talk%20to%20you%20about%20a%20project%20I%20had%20in%20mind%20to%20develop.%20I%20think%20you%20are%20the%20right%20person.&app_absent=0"
         target="_blank" lang="it-IT"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
      <a href="https://stackoverflow.com/users/4828356/andrea-coluzzi"
         target="_blank" lang="it-IT"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
