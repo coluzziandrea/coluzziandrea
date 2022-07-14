@@ -1,12 +1,11 @@
 ### <img src="https://cdn.jsdelivr.net/gh/coluzziandrea/general-assets@master/Readme/HandGreet.gif" width="35px" />&nbsp;<b>Hello! I'm Andrea</b>
 
 <br />
-<img align="right" src="https://cdn.jsdelivr.net/gh/coluzziandrea/general-assets@master/Readme/Avatar.png" width="200"/>
-<p aligh="left">
+<p >
   <p>Hey there, Welcome!</br>
  My name is Andrea, and I am from <img src="https://cdn.jsdelivr.net/gh/coluzziandrea/general-assets@master/Readme/icons8-italy-64.png" width="16px"/> <b>Italy</b>.</p>
   	
-  👩‍💻 I'm a Software Engineer skilled in Back-End Web Applications, but I am improving my Front-End Development, too.
+  👩‍💻 I'm a Passionate Full Stack Software Engineer.
 
 🔥 I Try to always Keep Up With the Latest Technology Trends.
 
