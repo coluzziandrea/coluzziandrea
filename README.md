@@ -1,7 +1,6 @@
 [![Profile Banner](./1500x500.jpg)](https://www.coluzziandrea.com)
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem;">
-
   <div>
     <p align="center">
       👩‍💻 I'm Andrea, a Passionate Full Stack Software Engineer from <img src="https://cdn.jsdelivr.net/gh/coluzziandrea/general-assets@master/Readme/icons8-italy-64.png" width="16px"/> <b>Italy</b> <img src="https://cdn.jsdelivr.net/gh/coluzziandrea/general-assets@master/Readme/HandGreet.gif" width="35px" />
@@ -22,7 +21,6 @@
         <img src="https://skillicons.dev/icons?i=docker,androidstudio,jest,css" />
       </a>
     </p>
-
   </div>
   <div>
     <a href="https://app.daily.dev/andreacoluzzi94"><img src="https://api.daily.dev/devcards/a7815c0f1be647918b1414e1e5d3b0f9.png?r=ybf"      width="400" alt="Coluzzi Andrea's Dev Card"/></a>  
