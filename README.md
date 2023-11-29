@@ -21,7 +21,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/a7815c0f1be647918b1414e1e5d3b0f9.png?r=ybf"
+      src="./devcard.svg"
     />
   </a>
 </div>
