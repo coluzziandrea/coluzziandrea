@@ -21,7 +21,7 @@
     <img
       width="256"
       align="right"
-      src="./devcard.svg"
+      src="https://github.com/coluzziandrea/coluzziandrea/blob/master/devcard.svg"
     />
   </a>
 </div>
