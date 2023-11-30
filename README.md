@@ -38,9 +38,9 @@
     <br />
     <p align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=next,js,tailwind,react,ts,graphql,docker" />
+        <img src="https://skillicons.dev/icons?i=next,tailwind,react,ts,graphql,docker" />
         <br>
-        <img src="https://skillicons.dev/icons?i=mongodb,kotlin,express,nodejs,firebase,nestjs" />
+        <img src="https://skillicons.dev/icons?i=kotlin,express,nodejs,firebase,nestjs" />
         <br>
         <img src="https://skillicons.dev/icons?i=docker,androidstudio,jest,css" />
       </a>
