@@ -35,6 +35,9 @@
     <p align="left">
     🔥 In Jan 2023 I founded <a href="https://latina-in-tech.github.io/" target="_blank">Latina In Tech</a>, a local tech community based in Latina, Italy. <br /> We organize monthly tech events on various topics
     </p>
+ <p align="left">
+    🎸 I also play as guitarist for a rock band named <a href="https://kezurya.github.io/" target="_blank">Kezurya</a>
+    </p>
     <br />
     <p align="left">
       <a href="https://skillicons.dev">
