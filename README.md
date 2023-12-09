@@ -27,7 +27,7 @@
 </div>
 <br />
 <p align="left">
-      👩‍💻 I'm Andrea, a Passionate Full Stack Software Engineer from <img src="https://cdn.jsdelivr.net/gh/coluzziandrea/general-assets@master/Readme/icons8-italy-64.png" width="16px"/> <b>Italy</b> <img src="https://cdn.jsdelivr.net/gh/coluzziandrea/general-assets@master/Readme/HandGreet.gif" width="35px" />
+      👩‍💻 I'm Andrea, a Passionate Full Stack Software Engineer from 🇮🇹 <b>Italy</b>
     </p>
     <p align="left">
     💼 Building the best Gift Cards experience in <a href="https://www.klarna.com/" target="_blank">Klarna</a> since Feb 2023
