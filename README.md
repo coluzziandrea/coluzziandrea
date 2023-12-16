@@ -10,12 +10,8 @@
            <a href="https://twitter.com/andreacoluzzi94" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://hashnode.com/@coluzziandrea" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
    <br />
-  <a href="https://dev.to/coluzziandrea"
-        target="_blank" lang="it-IT"><img src="https://img.shields.io/badge/DEV-12100E?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.To" /></a>
     <a href="https://www.youtube.com/@coluzziandrea893" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white" /></a>
      <br />
- <a href="https://medium.com/@coluzziandrea.dev"
-        target="_blank" lang="it-IT"><img src="https://img.shields.io/badge/Medium-098737?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 
   <a href="https://app.daily.dev/andreacoluzzi94" target="_blank">
     <img
