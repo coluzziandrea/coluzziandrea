@@ -52,9 +52,6 @@
 
   </summary>
 
-  <!-- HASHNODE_BLOG:START -->
-  <!-- HASHNODE_BLOG:END -->
-
 </details>
 <br />
 
@@ -71,3 +68,8 @@
 
 </details>
 <br />
+
+## My Latest Blog Posts 👇
+
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
