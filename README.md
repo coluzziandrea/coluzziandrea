@@ -46,14 +46,14 @@
       </a>
     </p>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <details>
   <summary>
 📚 &nbsp;<b>Latest Blog Posts</b>
 
   </summary>
+
+  <!-- HASHNODE_BLOG:START -->
+  <!-- HASHNODE_BLOG:END -->
 
 </details>
 <br />
