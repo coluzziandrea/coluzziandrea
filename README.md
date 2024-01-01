@@ -63,7 +63,6 @@
 This blog post is not about a new technology or an hot tech trend that you would hear of nowadays, it's about my experience as Mentor for High School students.
 
 When & how I decided to teach GIT to high school stu... </p> <br/> <br/>
-
 <!-- HASHNODE_BLOG:END -->
 
 </details>
