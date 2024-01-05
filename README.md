@@ -10,7 +10,7 @@
            <a href="https://twitter.com/andreacoluzzi94" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://hashnode.com/@coluzziandrea" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
    <br />
-    <a href="https://www.youtube.com/@coluzziandrea893" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@andreacoluzzidev" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white" /></a>
      <a href="https://dev.to/coluzziandrea" target="_blank"><img alt="DEV.TO" src="https://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
      <br />
      <a href="https://www.twitch.tv/andreacoluzzidev"
