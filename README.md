@@ -58,7 +58,7 @@
 <p align="left">
 <a href="https://coluzziandrea.hashnode.dev/git-00-linux-day-clqmkmkdh000008jg6a727167" title="I Taught GIT to High School Students"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703341841143/WChhSSCcr.png?auto=format" alt="I Taught GIT to High School Students" width="250px" align="left" /></a>
 <a href="https://coluzziandrea.hashnode.dev/git-00-linux-day-clqmkmkdh000008jg6a727167" title="I Taught GIT to High School Students"><strong>I Taught GIT to High School Students</strong></a>
-<div><strong>26 Dec 2023</strong></div>
+<div><strong>25 Nov 2023</strong> | <strong>Updated: 1 Jan 2024</strong></div>
 <br/> I Taught GIT to High School Students
 This blog post is not about a new technology or an hot tech trend that you would hear of nowadays, it's about my experience as Mentor for High School students.
 
