@@ -58,7 +58,7 @@
 <br/> I Taught GIT to High School Students
 This blog post is not about a new technology or an hot tech trend that you would hear of nowadays, it's about my experience as Mentor for High School students.
 
-When & how I decided to teach GIT to high school stu... </p> <br/> <br/>
+When & how I decided to teach GIT to high school stu... </p>
 
 <p align="left">
 <a href="https://blog.coluzziandrea.com/building-a-tech-community-from-scratch" title="Building a Tech Community from Scratch"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1708876350811/0GYuFPgkR.png?auto=format" alt="Building a Tech Community from Scratch" width="250px" align="left" /></a>
