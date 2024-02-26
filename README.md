@@ -57,17 +57,13 @@
 <div><strong>25 Nov 2023</strong> | <strong>Updated: 1 Jan 2024</strong></div>
 <br/> I Taught GIT to High School Students
 This blog post is not about a new technology or an hot tech trend that you would hear of nowadays, it's about my experience as Mentor for High School students.
-
 When & how I decided to teach GIT to high school stu... </p>
-
 <p align="left">
 <a href="https://blog.coluzziandrea.com/building-a-tech-community-from-scratch" title="Building a Tech Community from Scratch"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1708876350811/0GYuFPgkR.png?auto=format" alt="Building a Tech Community from Scratch" width="250px" align="left" /></a>
 <a href="https://blog.coluzziandrea.com/building-a-tech-community-from-scratch" title="Building a Tech Community from Scratch"><strong>Building a Tech Community from Scratch</strong></a>
 <div><strong>25 Feb 2024</strong> | <strong>Updated: 25 Feb 2024</strong></div>
 <br/> Building a Tech Community from Scratch
-Starting from last year, I decided to create a local tech community in Latina. Latina is a small city in the center of Italy, and unfortunately it's not known for its tech scene.
-
-It suffers a bit from the "brain drain" phenomenon, where... </p> <br/> <br/>
+Starting from last year, I decided to create a local tech community in Latina. Latina is a small city in the center of Italy, and unfortunately it's not known for its tech scene. It suffers a bit from the "brain drain" phenomenon, where... </p> <br/>
   </summary>
 
 <!-- HASHNODE_BLOG:START -->
