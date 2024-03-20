@@ -32,6 +32,13 @@
      </summary>
 
 <p align="left">
+<a href="https://blog.coluzziandrea.com/react-drag-n-drop" title="Drag and Drop feature in React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1710956698520/fxKilWoCT.png?auto=format" alt="Drag and Drop feature in React" width="250px" align="left" /></a>
+<a href="https://blog.coluzziandrea.com/react-drag-n-drop" title="Drag and Drop feature in React"><strong>Drag and Drop feature in React</strong></a>
+<div><strong>20 Mar 2024</strong> | <strong>Updated: 20 Mar 2024</strong></div>
+<br/> Drag and Drop feature in React
+In this blog post, I will show you how to implement a simple Drag and Drop feature in a React application without using any library... </p>
+
+<p align="left">
 <a href="https://blog.coluzziandrea.com/building-a-tech-community-from-scratch" title="Building a Tech Community from Scratch"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1708876350811/0GYuFPgkR.png?auto=format" alt="Building a Tech Community from Scratch" width="250px" align="left" /></a>
 <a href="https://blog.coluzziandrea.com/building-a-tech-community-from-scratch" title="Building a Tech Community from Scratch"><strong>Building a Tech Community from Scratch</strong></a>
 <div><strong>25 Feb 2024</strong> | <strong>Updated: 25 Feb 2024</strong></div>
