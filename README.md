@@ -32,6 +32,11 @@
      </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- `2024-04-13` | [Integrate Tone.js in a React application](https://blog.coluzziandrea.com/react-tonejs)  
+- `2024-03-20` | [Drag and Drop feature in React](https://blog.coluzziandrea.com/react-drag-n-drop)  
+- `2024-02-25` | [Building a Tech Community from Scratch](https://blog.coluzziandrea.com/building-a-tech-community-from-scratch)  
+- `2023-11-25` | [I Taught GIT to High School Students](https://blog.coluzziandrea.com/git-00-linux-day)  
+
 <!-- BLOG-POST-LIST:END -->
 
 </details>
