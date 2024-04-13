@@ -31,28 +31,8 @@
 📚 &nbsp;<b>Latest Blog Posts</b>
      </summary>
 
-<p align="left">
-<a href="https://blog.coluzziandrea.com/react-drag-n-drop" title="Drag and Drop feature in React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1710956698520/fxKilWoCT.png?auto=format" alt="Drag and Drop feature in React" width="250px" align="left" /></a>
-<a href="https://blog.coluzziandrea.com/react-drag-n-drop" title="Drag and Drop feature in React"><strong>Drag and Drop feature in React</strong></a>
-<div><strong>20 Mar 2024</strong> | <strong>Updated: 20 Mar 2024</strong></div>
-<br/> Drag and Drop feature in React
-In this blog post, I will show you how to implement a simple Drag and Drop feature in a React application without using any library... </p>
-
-<p align="left">
-<a href="https://blog.coluzziandrea.com/building-a-tech-community-from-scratch" title="Building a Tech Community from Scratch"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1708876350811/0GYuFPgkR.png?auto=format" alt="Building a Tech Community from Scratch" width="250px" align="left" /></a>
-<a href="https://blog.coluzziandrea.com/building-a-tech-community-from-scratch" title="Building a Tech Community from Scratch"><strong>Building a Tech Community from Scratch</strong></a>
-<div><strong>25 Feb 2024</strong> | <strong>Updated: 25 Feb 2024</strong></div>
-<br/> Building a Tech Community from Scratch
-Starting from last year, I decided to create a local tech community in Latina. Latina is a small city in the center of Italy, and unfortunately it's not known for its tech scene. It suffers a bit from the "brain drain" phenomenon, where... </p> 
- 
-<p align="left">
-<a href="https://coluzziandrea.hashnode.dev/git-00-linux-day-clqmkmkdh000008jg6a727167" title="I Taught GIT to High School Students"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703341841143/WChhSSCcr.png?auto=format" alt="I Taught GIT to High School Students" width="250px" align="left" /></a>
-<a href="https://coluzziandrea.hashnode.dev/git-00-linux-day-clqmkmkdh000008jg6a727167" title="I Taught GIT to High School Students"><strong>I Taught GIT to High School Students</strong></a>
-<div><strong>25 Nov 2023</strong> | <strong>Updated: 1 Jan 2024</strong></div>
-<br/> I Taught GIT to High School Students
-This blog post is not about a new technology or an hot tech trend that you would hear of nowadays, it's about my experience as Mentor for High School students.
-When & how I decided to teach GIT to high school stu... </p>
-<br/>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </details>
 <br />
