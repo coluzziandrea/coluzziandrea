@@ -1,23 +1,19 @@
 name: LatestBlog
-
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 12 * MON'
-
+ schedule:
+    - cron: '0 0 * * MON'
+ workflow_dispatch:
 jobs:
-  update_blogs:
-    name: 'Update With Latest Blogs'
-    runs-on: ubuntu-latest
-    steps:
-      - name: '📥  Fetching Repository Contents'
-        uses: actions/checkout@main
-
-      - name: '📚  Hashnode Updater'
-        uses: 'varunsridharan/action-hashnode-blog@main'
-        with:
-          USERNAME: 'coluzziandrea' # Hashnode Username
-          COUNT: 10 # MAX Visisble
-          STYLE: 'blog-left'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ update-readme-with-blog:
+   name: Update this repo's README with latest blog posts
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v3
+     - uses: gautamkrishnar/blog-post-workflow@master
+       with:
+         # Replace this URL with your rss feed URL/s
+         feed_list: "https://www.yellowduck.be/index.xml"
+         max_post_count: 5
+         template: "- `$date` | [$title]($url)  $newline"
+         date_format: yyyy-mm-dd
+         tag_post_pre_newline: true
