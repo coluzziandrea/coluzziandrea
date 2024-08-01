@@ -15,9 +15,6 @@
       👩‍💻 I'm Andrea, a Passionate Full Stack Software Engineer from 🇮🇹 <b>Italy</b>
     </p>
     <p align="left">
-    💼 Building the best Gift Cards experience in <a href="https://www.klarna.com/" target="_blank">Klarna</a> since Feb 2023
-    </p>
-    <p align="left">
     🔥 In Jan 2023 I founded <a href="https://latina-in-tech.github.io/" target="_blank">Latina In Tech</a>, a local tech community based in Latina, Italy. <br /> We organize monthly tech events on various topics
     </p>
  <p align="left">
